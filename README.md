@@ -1,6 +1,3 @@
-# coffee-sales-analysis
-Data analytics project on coffee sales including data cleaning, EDA, and a simple regression model.
-
 # ☕ Coffee Sales Data Analysis
 
 This project analyzes coffee sales data from March to July 2024, exploring sales trends and building a simple regression model.
